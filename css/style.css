@@ -340,7 +340,6 @@ nav.fill ul li a:hover:after {
 
 .img-wrapper img:hover {
   --i: -1;
-  -webkit-mask-position: 0 0;
 }
 .wrapper {
   margin-inline: auto;
